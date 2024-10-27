@@ -1,5 +1,5 @@
 # Snake Game
-
+as a part of 100 days of code challenge,
 a classic Snake Game made using the Python Turtle library. This repository contains a simple Snake Game built using Python's turtle module, following an Object-Oriented Programming (OOP) structure. The game allows the player to control the snake's movement using the arrow keys.
 
 ## Features
@@ -37,4 +37,4 @@ The project was broken down into the following tasks:
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/snake-game.git
+   git clone https://github.com/MostafaBarodi/snake-game.git
